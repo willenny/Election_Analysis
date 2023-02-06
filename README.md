@@ -1,18 +1,5 @@
 # Election Audit
 
-## Overview
-A Colorado Board of Elections employee, Tom, gave me the following tasks to complete the election audit of a recent local congressional election. 
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of counties in the precinct.
-3. Calculate the total number of votes in each county.
-4. Calculate the percentage of votes each county represented.
-5. Determine which county had the largest turnout.
-6. Get a complete list of candidates who received votes.
-7. Calculate the total number of votes each candidate received.
-8. Calculate the percentage of votes each candidate won.
-9. Determine the winner of the election based on popular vote. 
-
 ### Purpose
 The purpose of this election analysis audit was the take a csv file with over a million pieces of data, process the information by writing scripts containing for loops and if statements, and return the results in an easily readable text file.
 
